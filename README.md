@@ -5,9 +5,9 @@ A Simple Template for TypeScript Project with:
  * Travis
  * EsLint
  * Docsify
+ * Jest
 
 ## RoadMap
 
- * Add Jest
  * Release Scripts
  * Improve Doc System
